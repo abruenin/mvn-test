@@ -1,1 +1,0 @@
-java -jar d:\dev\JUnit5\junit-platform-console-standalone-1.2.0.jar --select-class org.abruenin.AppTest --classpath %CLASSPATH%
